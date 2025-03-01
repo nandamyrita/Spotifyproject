@@ -28,3 +28,6 @@ export default App2;
 //Elements
 //Modifiers
 //bloco__elements--modificador
+
+//tag vazia em react se chama fragment
+//nomes compostos sao separados por -
