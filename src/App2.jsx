@@ -31,3 +31,5 @@ export default App2;
 
 //tag vazia em react se chama fragment
 //nomes compostos sao separados por -
+
+//componentes recebem props
